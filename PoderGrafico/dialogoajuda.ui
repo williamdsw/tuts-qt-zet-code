@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>DialogoAjuda</class>
+ <widget class="QDialog" name="DialogoAjuda">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>361</width>
+    <height>156</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout">
+   <item>
+    <widget class="QLabel" name="lblAjuda">
+     <property name="text">
+      <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Manual de atendimento ao cliente:&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;- Se ele pedir &lt;span style=&quot; color:#00aa00;&quot;&gt;sem cebola&lt;/span&gt;, &lt;span style=&quot; text-decoration: underline;&quot;&gt;esqueça&lt;/span&gt;!&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;- Se ele pedir &lt;span style=&quot; color:#00aaff;&quot;&gt;sem gelo&lt;/span&gt;, &lt;span style=&quot; font-weight:600;&quot;&gt;coloque gelo!&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;- Se ele pedir &lt;span style=&quot; color:#00ffff;&quot;&gt;com gelo&lt;/span&gt;, &lt;span style=&quot; font-style:italic;&quot;&gt;não ponha gelo!&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;- Demore no mínimo &lt;span style=&quot; font-weight:600; color:#aa0000;&quot;&gt;15 minutos&lt;/span&gt; para montar o pedido.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

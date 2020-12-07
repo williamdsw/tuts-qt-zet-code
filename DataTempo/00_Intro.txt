@@ -1,0 +1,6 @@
+/* DATA E TEMPO EM QT5
+ *
+ * Qt5 tem QDate, QTime e QDateTime para trabalhar com o tempo. QDate lida com o calendário gregoriano, enquanto
+ * QTime lida com relógio. QDateTime combina ambos em um objeto.
+ *
+ */

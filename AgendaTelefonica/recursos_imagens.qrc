@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Imagens/Icones/antenna.png</file>
+        <file>Imagens/Icones/bluetooth.png</file>
+        <file>Imagens/Icones/click-to-call.png</file>
+        <file>Imagens/Icones/dial.png</file>
+        <file>Imagens/Icones/feedback.png</file>
+        <file>Imagens/Icones/guarantee.png</file>
+        <file>Imagens/Icones/hang-up.png</file>
+        <file>Imagens/Icones/headphones.png</file>
+        <file>Imagens/Icones/help.png</file>
+        <file>Imagens/Icones/keypad.png</file>
+        <file>Imagens/Icones/mobile-phone.png</file>
+        <file>Imagens/Icones/my-invoices.png</file>
+        <file>Imagens/Icones/my-profile.png</file>
+        <file>Imagens/Icones/my-reports.png</file>
+        <file>Imagens/Icones/my-savings.png</file>
+        <file>Imagens/Icones/readme-file.txt</file>
+        <file>Imagens/Icones/receptionist.png</file>
+        <file>Imagens/Icones/sms-call.png</file>
+        <file>Imagens/Icones/sms.png</file>
+        <file>Imagens/Icones/support-man.png</file>
+        <file>Imagens/Icones/support-woman.png</file>
+        <file>Imagens/Icones/telecom.png</file>
+        <file>Imagens/Icones/telephone.png</file>
+        <file>Imagens/Icones/telephone_receiver.png</file>
+        <file>Imagens/Icones/tell-a-friend.png</file>
+        <file>Imagens/Icones/usb.png</file>
+        <file>Imagens/Icones/voip.png</file>
+        <file>Imagens/Icones/vpn.png</file>
+        <file>Imagens/Icones/wallet.png</file>
+        <file>Imagens/Icones/web-call.png</file>
+        <file>Imagens/Icones/wifi.png</file>
+    </qresource>
+</RCC>

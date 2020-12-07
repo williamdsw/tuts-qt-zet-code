@@ -1,0 +1,8 @@
+/* CONTAINERS EM QT5
+ *
+ * Containers são classes que guardam itens de certo tipo e C++. Alguns tipos : QVector, QList, QStringList, QSet e QMap.
+ * Existem dois tipos de containers :
+ * 1 - Sequencial : onde os itens são armazenados um atrás do outro.
+ * 2 - Associativo : onde são armazenados chaves e valores.
+ *
+ * */

@@ -1,0 +1,5 @@
+GESTÃO DE LAYOUT
+
+Uma aplicação consiste de diversos widgets. Esses widgets são colocados dentro de layouts.
+Um programador deve saber manejar o layout de uma aplicação.
+No qt temos duas opções : posição absoluta e gestor de layouts.

@@ -1,0 +1,21 @@
+EVENTOS E SINAIS
+
+Eventos são importantes em qualquer programa de aplicação gráfica. Todas aplicações gráficas são conduzidas por eventos.
+Uma aplicação reage a diferentes tipos de eventos que são gerados durante sua vida. Eventos são gerados principalmente
+pelo usuário da aplicação. Mas eles podem ser gerados por outros tipos, como, conexão de internet, gerenciador de janelas,
+ou um timer.Em um modelo de evento, existem três participantes :
+
+- a fonte do evento
+- o objeto do evento
+- o alvo do evento
+
+A fonte do evento é objeto que muda de estados. Ele gera Eventos. O objeto do evento encapsula a mudança de estado na
+fonte do evento. O alvo do evento é objeto que quer ser notificado. O objeto da fonte o evento delega a tarefa de manipular
+um evento para o alvo do evento.
+
+Quando chamamos o método "exec()" da aplicação, a aplicação entre no loop principal. O loop principal busca eventos e
+manda-os para os objetos. O Qt tem um único mecanismo de signal-slot. Esse mecanismo é uma extensão à linguagem de pro
+gramação C++.
+
+Signals e Slots são usados para comunicação entre objetos. Um Signal é emitido quando um evento particular ocorre.
+Um Slot é um método comum em C++, que é chamado quando um Signal conectado é emitido.

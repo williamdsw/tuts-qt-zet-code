@@ -1,0 +1,8 @@
+/* TRABALHANDO COM ARQUIVOS EM QT5
+ *
+ * As classes fundamentais para trabalhar com arquivos são : QFile, QDir e QFileInfo.
+ * QFile fornece uma interface para ler e escrever dados nos arquivos.
+ * QDir fornece acesso à diretórios, suas estruturas e arquivos.
+ * QFileIndo fornece informações como nome, posição no sistema, data de acesso e modificação, e dono.
+ *
+ * */

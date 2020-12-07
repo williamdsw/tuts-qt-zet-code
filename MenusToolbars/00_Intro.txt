@@ -1,0 +1,5 @@
+MENUS E BARRA DE FERRAMENTAS
+
+Uma barra de menu é uma parte comum de uma aplicação gráfica. É uma coleção de comandos localizada em Menus.
+Grupo de Menus que podemos usar em nossa aplicação. Barra de Ferramentas fornece uma acesso rápido aos
+comandos mais utilizados.

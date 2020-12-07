@@ -1,0 +1,3 @@
+QWIDGETS II
+
+São componentes fundamentais para uma aplicação gráfica.
