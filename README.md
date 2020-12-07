@@ -1,2 +1,3 @@
-# tuts-qt-zet-code
-Project based on these tutorials: http://zetcode.com
+# Qt Tutorials from Zet Code
+
+Project based on tutorials from this site: http://zetcode.com
